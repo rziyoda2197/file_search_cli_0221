@@ -1,1 +1,6 @@
-# file_search_cli_0221
+# File Search CLI
+
+Papka ichidan fayl qidiradi.
+
+## Run
+python main.py
